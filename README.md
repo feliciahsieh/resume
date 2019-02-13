@@ -1,6 +1,6 @@
 # Felicia Hsieh
-214@holbertonschool.com
-github.com/feliciahsieh
+* 214@holbertonschool.com
+* https://www.github.com/feliciahsieh
 
 <p align="center">><img src="https://github.com/feliciahsieh/resume/blob/master/ComputerScreen.png" style="height:15%;width:15%" /></p>
 
@@ -30,16 +30,16 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 |  Name                |    Degree                                                      |
 |----------------------|----------------------------------------------------------------|
 | Holberton School     | Full-Stack Software Engineer certificate (exp 9/19)            |
+| College of San Mateo | Web programming certificate (1 class needed)                   |
 | College of Dupage    | Internetworking (CCNA) program                                 |
 | University of Miami  | Masters of Business Administration                             |
 | Rutgers University   | Bachelors of Science, Computer Science, Electrical Engineering |
-|---------------------------------------------------------------------------------------|
-
 
 ## Skills
 
-| Software       | Git, Python, MySQL, C, Javascript, nodeJS, Java, bash, HTML, CSS     |
-|                | Bootstrap, Selenium WebDriver                                        |
+|                |                                                                      |
+| Software       | Git, Python, MySQL, C, Javascript, nodeJS, Java, bash                |
+|                | HTML, CSS, SCSS, Bootstrap, Selenium WebDriver                       |
 | Networking     | CCNA (equivalent), HAProxy, WiFi, wireline                           |
 | Systems        | Linux, Docker, Nginx, Apache, vagrant, SSH, ArcGIS, LAMP             |
 | Office Apps    | Microsoft Word, Excel, Google Suite (Docs, Sheets)                   |
