@@ -1,8 +1,7 @@
-<p align="center">#Felicia Hsieh</p>
-* <p align="center">214@holbertonschool.com</p>
-* <p align="center">https://www.github.com/feliciahsieh</p>
-
-<p align="center">><img src="https://github.com/feliciahsieh/resume/blob/master/ComputerScreen.png" style="height:15%;width:15%" /></p>
+# <p align="center">#Felicia Hsieh</p>
+<p align="center">214@holbertonschool.com</p>
+<p align="center">https://www.github.com/feliciahsieh</p>
+<p align="center"><img src="https://github.com/feliciahsieh/resume/blob/master/ComputerScreen.png" style="height:5%;width:5%" /></p>
 
 ## Summary
 Dedicated Software Engineer familiar with Full-stack software engineering and networking experience looking for a challenging, high-tech job. Hard-worker, fast-learner, and business savvy.
@@ -27,7 +26,7 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 | Lawrence Berkeley National Labs, Berkeley, CA                            |
 | Computer Systems Engineer 2                                              |
 | ❖ Created automated tests using Selenium with Java, TestNG, Maven with 3rd-party companies (SauceLabs, BrowserStack, Blazemeter). Proved newer Google Apps Script and Caspio apps could replace existing apps.                                                                   |
-| ❖ Created IT Training program that trained 300 lab employees in 40 classes on 6 Google’s Docs, Sheets, Sites, Forms, and Groups in 7 months. Set up the IT Training website. |
+  ❖ Created IT Training program that trained 300 lab employees in 40 classes on 6 Google’s Docs, Sheets, Sites, Forms, and Groups in 7 months. Set up the IT Training website. |
 |                                                                          |
 | b                                                                        |
 |                                                                          |
@@ -35,7 +34,7 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 |                                                                          |
 
 ## Education
-|  Name                |    Degree                                                      |
+| Name                 | Degree                                                         |
 |----------------------|----------------------------------------------------------------|
 | Holberton School     | Full-Stack Software Engineer certificate (exp 9/19)            |
 | College of San Mateo | Web programming certificate (1 class needed)                   |
@@ -44,10 +43,10 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 | Rutgers University   | Bachelors of Science, Computer Science, Electrical Engineering |
 
 ## Skills
-|                |                                                                      |
-|----------------|----------------------------------------------------------------------|
-| Software       | Git, Python, MySQL, C, Javascript, nodeJS, Java, bash                |
-|                | HTML, CSS, SCSS, Bootstrap, Selenium WebDriver                       |
-| Networking     | CCNA (equivalent), HAProxy, WiFi, wireline                           |
-| Systems        | Linux, Docker, Nginx, Apache, vagrant, SSH, ArcGIS, LAMP             |
-| Office Apps    | Microsoft Word, Excel, Google Suite (Docs, Sheets)                   |
+| Name                 | Tech                                                           |
+|----------------------|----------------------------------------------------------------|
+| Software             | Git, Python, MySQL, C, Javascript, nodeJS, Java, bash          |
+|                      | HTML, CSS, SCSS, Bootstrap, Selenium WebDriver                 |
+| Networking           | CCNA (equivalent), HAProxy, WiFi, wireline                     |
+| Systems              | Linux, Docker, Nginx, Apache, vagrant, SSH, ArcGIS, LAMP       |
+| Office Apps          | Microsoft Word, Excel, Google Suite (Docs, Sheets)             |
