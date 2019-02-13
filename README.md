@@ -1,6 +1,6 @@
-##<p align="center">Felicia Hsieh></p>
-<p align="center">214@holbertonschool.com</p>
-<p align="center">https://www.github.com/feliciahsieh</p>
+# <p align="center">Felicia Hsieh</p>
+214@holbertonschool.com
+https://www.github.com/feliciahsieh
 <p align="center"><img src="https://github.com/feliciahsieh/resume/blob/master/ComputerScreen.png" style="height:5%;width:5%" /></p>
 
 ## Summary
