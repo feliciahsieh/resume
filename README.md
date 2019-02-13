@@ -1,4 +1,4 @@
-# Felicia Hsieh
+# < align="center">Felicia Hsieh</p>
 * 214@holbertonschool.com
 * https://www.github.com/feliciahsieh
 
@@ -22,7 +22,10 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 * [AirBnb clone](https://github.com/feliciahsieh/AirBnB_clone_v3) - Group project for a functional AirBnb clone using Python, mysql, Flask, Jinja, Nginx
 
 ## Experience
-* a
+* Lawrence Berkeley National Labs, Berkeley, CA
+* Computer Systems Engineer 2
+* ❖ Created automated tests using Selenium with Java, TestNG, Maven with 3rd-party companies (SauceLabs, BrowserStack, Blazemeter). Proved newer Google Apps Script and Caspio apps could replace existing apps.
+* ❖ Created IT Training program that trained 300 lab employees in 40 classes on 6 Google’s Docs, Sheets, Sites, Forms, and Groups in 7 months. Set up the IT Training website.
 * b
 * c
 
@@ -36,8 +39,7 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 | Rutgers University   | Bachelors of Science, Computer Science, Electrical Engineering |
 
 ## Skills
-
-|                |                                                                      |
+|----------------|----------------------------------------------------------------------|
 | Software       | Git, Python, MySQL, C, Javascript, nodeJS, Java, bash                |
 |                | HTML, CSS, SCSS, Bootstrap, Selenium WebDriver                       |
 | Networking     | CCNA (equivalent), HAProxy, WiFi, wireline                           |
