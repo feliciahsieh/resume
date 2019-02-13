@@ -22,6 +22,7 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 * [AirBnb clone](https://github.com/feliciahsieh/AirBnB_clone_v3) - Group project for a functional AirBnb clone using Python, mysql, Flask, Jinja, Nginx
 
 ## Experience
+|                                                                          |
 |--------------------------------------------------------------------------|
 | Lawrence Berkeley National Labs, Berkeley, CA                            |
 | Computer Systems Engineer 2                                              |
@@ -43,6 +44,7 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 | Rutgers University   | Bachelors of Science, Computer Science, Electrical Engineering |
 
 ## Skills
+|                |                                                                      |
 |----------------|----------------------------------------------------------------------|
 | Software       | Git, Python, MySQL, C, Javascript, nodeJS, Java, bash                |
 |                | HTML, CSS, SCSS, Bootstrap, Selenium WebDriver                       |
