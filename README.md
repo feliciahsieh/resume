@@ -1,6 +1,6 @@
-# < align="center">Felicia Hsieh</p>
-* 214@holbertonschool.com
-* https://www.github.com/feliciahsieh
+<p align="center">#Felicia Hsieh</p>
+* <p align="center">214@holbertonschool.com</p>
+* <p align="center">https://www.github.com/feliciahsieh</p>
 
 <p align="center">><img src="https://github.com/feliciahsieh/resume/blob/master/ComputerScreen.png" style="height:15%;width:15%" /></p>
 
@@ -22,12 +22,16 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 * [AirBnb clone](https://github.com/feliciahsieh/AirBnB_clone_v3) - Group project for a functional AirBnb clone using Python, mysql, Flask, Jinja, Nginx
 
 ## Experience
-* Lawrence Berkeley National Labs, Berkeley, CA
-* Computer Systems Engineer 2
-* ❖ Created automated tests using Selenium with Java, TestNG, Maven with 3rd-party companies (SauceLabs, BrowserStack, Blazemeter). Proved newer Google Apps Script and Caspio apps could replace existing apps.
-* ❖ Created IT Training program that trained 300 lab employees in 40 classes on 6 Google’s Docs, Sheets, Sites, Forms, and Groups in 7 months. Set up the IT Training website.
-* b
-* c
+|--------------------------------------------------------------------------|
+| Lawrence Berkeley National Labs, Berkeley, CA                            |
+| Computer Systems Engineer 2                                              |
+| ❖ Created automated tests using Selenium with Java, TestNG, Maven with 3rd-party companies (SauceLabs, BrowserStack, Blazemeter). Proved newer Google Apps Script and Caspio apps could replace existing apps.                                                                   |
+| ❖ Created IT Training program that trained 300 lab employees in 40 classes on 6 Google’s Docs, Sheets, Sites, Forms, and Groups in 7 months. Set up the IT Training website. |
+|                                                                          |
+| b                                                                        |
+|                                                                          |
+| c                                                                        |
+|                                                                          |
 
 ## Education
 |  Name                |    Degree                                                      |
