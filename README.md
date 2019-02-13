@@ -1,4 +1,4 @@
-<p align="center">#Felicia Hsieh</p>
+##<p align="center">Felicia Hsieh></p>
 <p align="center">214@holbertonschool.com</p>
 <p align="center">https://www.github.com/feliciahsieh</p>
 <p align="center"><img src="https://github.com/feliciahsieh/resume/blob/master/ComputerScreen.png" style="height:5%;width:5%" /></p>
@@ -22,7 +22,7 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
 * [AirBnb clone](https://github.com/feliciahsieh/AirBnB_clone_v3) - Group project for a functional AirBnb clone using Python, mysql, Flask, Jinja, Nginx
 
 ## Experience
-| |
+|    |
 |--------------------------------------------------------------------------|
 | <b>Lawrence Berkeley National Labs</b>, Berkeley, CA                     |
 | Computer Systems Engineer 2                                              |
@@ -30,7 +30,8 @@ Dedicated Software Engineer familiar with Full-stack software engineering and ne
   ❖ Created IT Training program that trained 300 lab employees in 40 classes on 6 Google’s Docs, Sheets, Sites, Forms, and Groups in 7 months. Set up the IT Training website. |
 
 ## RelatedExperience
-|--------------------------------------------------------------------------|
+|    |
+|----|
 | ❖ Added dozens of cache servers at ISP’s to offload Google’s Core network backbone. |
 | ❖ Built out 5 high profile, municipal and enterprise wireless (802.11 Wi-Fi) projects in less than a year on contracts worth $15K - $1.6M. |
 | ❖ Led AT&T’s first successful DSL service offering in 3-6 months by building up and actively managing 4 concurrent DSL trials (2 for AIS, ALS/LNS, WorldNet). Was key in evolution of trial to company’s first nationwide rollout by working with 75 people daily, processing 2,200 orders in 6 months. Conducted training for staff and created website for operations. |
